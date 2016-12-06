@@ -14,7 +14,7 @@ source:
 requirements:
   build:
    - python
-   - cmake
+   - cmake 3.6.3
    - hdf5 1.8.*      # [osx]
    - numpy >=1.10
    - eigen 3.*
